@@ -1,0 +1,14 @@
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\bin\Debug\netcoreapp2.2\CommandAPI.deps.json
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\bin\Debug\netcoreapp2.2\CommandAPI.runtimeconfig.json
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\bin\Debug\netcoreapp2.2\CommandAPI.runtimeconfig.dev.json
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\bin\Debug\netcoreapp2.2\CommandAPI.dll
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\bin\Debug\netcoreapp2.2\CommandAPI.pdb
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.csprojAssemblyReference.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.csproj.CoreCompileInputs.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.RazorAssemblyInfo.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.RazorAssemblyInfo.cs
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.AssemblyInfoInputs.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.AssemblyInfo.cs
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.RazorTargetAssemblyInfo.cache
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.dll
+C:\Users\lesja\OneDrive\Documents\VSCode\CommandAPI\obj\Debug\netcoreapp2.2\CommandAPI.pdb
