@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CommandAPI.Migrations
 {
     [DbContext(typeof(CommandContext))]
-    [Migration("20190104023708_AddCommandsToDB")]
-    partial class AddCommandsToDB
+    [Migration("20190226100232_StartAgain")]
+    partial class StartAgain
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

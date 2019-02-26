@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace CommandAPI.Migrations
 {
-    public partial class AddCommandsToDB : Migration
+    public partial class StartAgain : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
