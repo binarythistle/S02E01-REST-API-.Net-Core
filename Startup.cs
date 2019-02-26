@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using CommandAPI.Models;
+using Swashbuckle.AspNetCore.Swagger;
 
 namespace CommandAPI
 {
@@ -26,6 +27,11 @@ namespace CommandAPI
                 (opt => opt.UseSqlServer(Configuration["Data:CommandAPIConnection:ConnectionString"]));
             
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Info { Title = "My API", Version = "v1" });
+            });
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
@@ -36,6 +42,12 @@ namespace CommandAPI
             }
 
           app.UseMvc();
+          app.UseSwagger();
+
+          app.UseSwaggerUI(c =>
+          {
+            c.SwaggerEndpoint("/swagger/v1/swagger.json", "CommandAPI");
+            });
         }
     }
 }
