@@ -2,7 +2,6 @@ namespace CommandAPI.Models
 {
     public class Command
     {
-        //test comment
 
         public int Id {get; set;}
         public string Howto {get; set;}
